@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216988615241",
+    "firebase_url": "https://niharika-fabrics-edd10-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "niharika-fabrics-edd10",
+    "storage_bucket": "niharika-fabrics-edd10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216988615241:android:4a727ff72c398675a7b598",
+        "android_client_info": {
+          "package_name": "com.baclinc.ecomproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216988615241-0uifilr8792nhsnb8lf0ibg1rhqetl1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baclinc.ecomproject",
+            "certificate_hash": "2f86e22c56f6b523d026d7c88201d0cfbd459d76"
+          }
+        },
+        {
+          "client_id": "216988615241-ro6dqo99v60bmqi88740tn5p016qjh8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzb8NG84_5GXdyZydpprJb-7RRfXgWII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216988615241-ro6dqo99v60bmqi88740tn5p016qjh8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
